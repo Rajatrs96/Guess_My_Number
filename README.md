@@ -1,2 +1,1 @@
-# Guess_My_Number
- Guessing a Number
+A simple game to guess a number
